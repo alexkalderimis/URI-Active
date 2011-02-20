@@ -1,0 +1,8 @@
+.*swp
+MANIFEST.*
+MYMETA.yml
+Build
+_build
+blib
+.*bak
+.*tar.gz
